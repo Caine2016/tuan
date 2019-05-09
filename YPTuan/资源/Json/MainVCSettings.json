@@ -1,0 +1,23 @@
+ [
+  {
+  "vcName": "HGFineController",
+  "title": "精选",
+  "imageName": "home"
+  },
+  {
+  "vcName": "HGGlobalController",
+  "title": "玩乐",
+  "imageName": "earth"
+  },
+ 
+  {
+  "vcName": "YLCartIndexController",
+  "title": "订单",
+  "imageName": "cart"
+  },
+  {
+  "vcName": "HGMeController",
+  "title": "我的",
+  "imageName": "user"
+  }
+  ]
